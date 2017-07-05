@@ -1,0 +1,2 @@
+target 'SerialPort'
+pod 'ORSSerialPort', '~> 2.0.2'
